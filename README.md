@@ -1,5 +1,7 @@
 # Checking Fly Buys Cards
 
+[![Build Status](https://travis-ci.com/roaldjap/fb-card-validation.svg?branch=master)](https://travis-ci.com/github/roaldjap/fb-card-validation)
+
 The following project uses the following:
 
   - *Minitest* - for Unit Testing 
